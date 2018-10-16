@@ -6,7 +6,6 @@ public class test {
 		System.out.println("hello");
 		System.out.println("aditya");
 		System.out.println("deora");
-		System.out.println("adi");
 	}
 
 }
