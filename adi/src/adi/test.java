@@ -6,8 +6,8 @@ public class test {
 		System.out.println("hello");
 		System.out.println("adi");
 		System.out.println("deora");
-		System.out.println("ad");
-		System.out.println("ad");
+		System.out.println("adi");
+		
 	}
 
 }
