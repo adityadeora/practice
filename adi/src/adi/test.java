@@ -7,7 +7,7 @@ public class test {
 		System.out.println("adi");
 		System.out.println("deora");
 		System.out.println("adi");
-		
+		System.out.println("sonali");
 	}
 
 }
