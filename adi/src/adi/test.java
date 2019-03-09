@@ -8,6 +8,7 @@ public class test {
 		System.out.println("deora");
 		System.out.println("adi");
 		System.out.println("sonali");
+		System.out.println("sonali1");
 	}
 
 }
